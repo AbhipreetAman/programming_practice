@@ -5,8 +5,7 @@
 #include <string.h>
 #include <ctype.h>
 
-## abhipreet
-# aman
+
 
 int main()
 {
